@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Proyectos
+title: Proyectos 📊
+nav_title: Proyectos
 full_width: true
 weight: 3
 ---
@@ -16,6 +17,9 @@ Para utilizar esta librería, deberás tener instalado Python y descargar las li
 
 [_**Enlace a GitHub**_](https://github.com/sacbegg/SummaryLLM)
 
+<div align="center">
+  <hr/>
+</div>
 
 ## Análisis de componentes principales aplicado a índices sociales de México y su relación con la prueba PISA de matemáticas
 
@@ -23,6 +27,9 @@ Se realizó análisis de componentes principales sobre índices sociales de Méx
 
 [_**Enlace a GitHub**_](https://github.com/sacbegg/PCA-sobre-datos-sociales-Mexico)
 
+<div align="center">
+  <hr/>
+</div>
 
 ## Bitcoin: Inversión y análisis de métricas de la blockchain
 
