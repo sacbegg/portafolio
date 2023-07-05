@@ -17,6 +17,8 @@ Para utilizar esta librería, deberás tener instalado Python y descargar las li
 
 [_**Enlace a GitHub**_](https://github.com/sacbegg/SummaryLLM)
 
+---
+
 <div align="center">
   <hr/>
 </div>
