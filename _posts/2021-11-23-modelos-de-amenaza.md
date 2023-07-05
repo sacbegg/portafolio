@@ -6,13 +6,11 @@ En esta nueva economia de los datos en la cual somos cada vez más el producto e
         
 <h2 id="opsec">Seguridad Operacional </h2>
 Opsec es un proceso en el cual se puede negar a los potenciales adversarios información al identificar, controlar y proteger evidencia de nuestras actividades <label for="opsec" class="margin-toggle sidenote-number"></label><input type="checkbox" id="opsec" class="margin-toggle"/><span class="sidenote"> <a href="https://www.commerce.gov/osy/programs/operations-security-opsec"> The National Counterintelligence and Security Center</a></span>. Este proceso cuenta con cinco pasos:
-  <ol>
-      <li> Identificar la información a proteger.</li>
-      <li> Analizar las amenazas.</li>
-      <li> Analizar las vulnerabilidades.</li>
-      <li> Evaluar riesgos.</li>
-      <li> Aplicar contramedidas.</li>
-  </ol>
+  1. Identificar la información a proteger.
+  2. Analizar las amenazas.
+  3. Analizar las vulnerabilidades.
+  4. Evaluar riesgos.
+  5. Aplicar contramedidas.
 
 Al entendimiento y aplicación del proceso OPSEC tambien se le llama  <em><b>modelo de amenaza</b></em>  donde las principales preguntas son: ¿Quién es tu adversario? y ¿qué necesitas proteger?  
 Durante mucho tiempo he visto en foros o comunidades saltarse este paso crucial e inicial a la hora de querer proteger su privacidad en linea. Un error muy común es iniciar con el último paso y aplicar las contramedidas directamente.
@@ -21,7 +19,10 @@ Durante mucho tiempo he visto en foros o comunidades saltarse este paso crucial 
 No todos somos periodistas, activistas o denunciantes de megacorporaciones, por tanto no todos requerimos de un alto nivel de seguridad. Las contramedidas surgen a partir del analisis de los cuatro pasos anteriores y por tanto es única para cada persona. Con lo anterior entonces decimos que <b>no existen guías mágicas con mejores practicas cuando se trata de proteger tu privacidad</b>. El enfoque que solo toma en cuenta las contramedidas puede llevar a la paranoia al no saber limitar que quieres proteger.
 
 <h2 id="seg_conv">Relación seguridad - conveniencia</h2>
-Siempre vale la pena recordar estas preguntas ¿la seguridad es mayor que la conveniencia?, ¿los riesgos superan los beneficios?, ¿realmente soy un objetivo especifico de una megacorporación o gobierno? La relación entre seguridad y conveniencia es inversamente proporcional.Entre mayor seguridad en un sistema es menos conveniente por lo que es válido preguntarse si el gasto de tiempo y esfuerzo que podría aplicarse a otros asuntos en nuestras vidas vale la pena.<label for="graph" class="margin-toggle">&#8853;</label><input type="checkbox" id="graph" class="margin-toggle"/><span class="marginnote"><img src="https://i.imgur.com/4utEacr.png" /> La relación entre la seguridad y conveniencia muestra que entre más grande sea uno, más pequeño será el otro.
+Siempre vale la pena recordar estas preguntas ¿la seguridad es mayor que la conveniencia?, ¿los riesgos superan los beneficios?, ¿realmente soy un objetivo especifico de una megacorporación o gobierno? La relación entre seguridad y conveniencia es inversamente proporcional.Entre mayor seguridad en un sistema es menos conveniente por lo que es válido preguntarse si el gasto de tiempo y esfuerzo que podría aplicarse a otros asuntos en nuestras vidas vale la pena.
+{% marginfigure 'graph_1' '/IMG/MAP.png' 'La relación entre la seguridad y conveniencia muestra que entre más grande sea uno, más pequeño será el otro.' %}
+
+<!-- <label for="graph" class="margin-toggle">&#8853;</label><input type="checkbox" id="graph" class="margin-toggle"/><span class="marginnote"><img src="https://i.imgur.com/4utEacr.png" /> La relación entre la seguridad y conveniencia muestra que entre más grande sea uno, más pequeño será el otro.-->
 <h2 id="ejemplo">Ejemplo de modelo de amenaza</h2>
 Empecemos con un ejemplo sencillo y básico sobre como seguir el proceso OPSEC.
 	
