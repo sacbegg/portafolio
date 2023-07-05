@@ -16,14 +16,11 @@ Para utilizar esta librería, deberás tener instalado Python y descargar las li
 
 <table>
   <tr>
-    <td><img src="/IMG/LLM-GPT4ALL/1.jpeg" alt="Imagen 1" style="width: 85%; height: auto;" /></td>
-    <td><img src="/IMG/LLM-GPT4ALL/2.jpeg" alt="Imagen 2" style="width: 85%; height: auto;" /></td>
+    <td><img src='/IMG/LLM-GPT4ALL/1.jpeg' alt="Imagen 1" style="width: 85%; height: auto;" /></td>
+    <td><img src='/IMG/LLM-GPT4ALL/2.jpeg' alt="Imagen 2" style="width: 85%; height: auto;" /></td>
   </tr>
 </table>
 <img src="/IMG/LLM-GPT4ALL/3.jpeg" alt="Imagen 3" style="width: 45%; height: auto;" />
-{% maincolumn '/IMG/LLM-GPT4ALL/1.jpeg' "" %}
-{% maincolumn '/IMG/LLM-GPT4ALL/2.jpeg' "" %}
-{% maincolumn '/IMG/LLM-GPT4ALL/3.jpeg' "" %}
 
 [_**Enlace a GitHub**_](https://github.com/sacbegg/SummaryLLM)
 
