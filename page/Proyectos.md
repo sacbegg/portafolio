@@ -14,7 +14,6 @@ La librería LangChain es una herramienta de procesamiento de lenguaje natural q
 
 Para utilizar esta librería, deberás tener instalado Python y descargar las librerias necesarias de LangChain. Una vez que hayas hecho esto, podrás importar la librería en tu código y comenzar a generar resúmenes de tus archivos PDF.
 
-{% maincolumn '/IMG/LLM-GPT4ALL/3.jpeg' "" %}
 [_**Enlace a GitHub**_](https://github.com/sacbegg/SummaryLLM)
 
 
@@ -22,7 +21,6 @@ Para utilizar esta librería, deberás tener instalado Python y descargar las li
 
 Se realizó análisis de componentes principales sobre índices sociales de México extraídos de Our World In Data, estos datos abarcan desde el año 2000 al 2021. Se mostró que la variación de la puntuación PISA obtenida se ve afectada por el número de militares que hay en el país y el gasto en la educación, con una correlación de 0.6 y 0.5 respectivamente en un intervalo de -1 a 1.
 
-{% maincolumn '/IMG/PCA1/PCA.png' "" %}
 [_**Enlace a GitHub**_](https://github.com/sacbegg/PCA-sobre-datos-sociales-Mexico)
 
 
