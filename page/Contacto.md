@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contacto
-weight: 3
+weight: 4
 ---
 
 Si estás interesado en mi trabajo o tienes alguna pregunta sobre mis proyectos, estaré encantado de responder tus consultas. Puedes comunicarte conmigo utilizando los siguientes métodos:
