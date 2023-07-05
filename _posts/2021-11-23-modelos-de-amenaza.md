@@ -22,7 +22,6 @@ No todos somos periodistas, activistas o denunciantes de megacorporaciones, por 
 Siempre vale la pena recordar estas preguntas ¿la seguridad es mayor que la conveniencia?, ¿los riesgos superan los beneficios?, ¿realmente soy un objetivo especifico de una megacorporación o gobierno? La relación entre seguridad y conveniencia es inversamente proporcional.Entre mayor seguridad en un sistema es menos conveniente por lo que es válido preguntarse si el gasto de tiempo y esfuerzo que podría aplicarse a otros asuntos en nuestras vidas vale la pena.
 {% marginfigure 'graph_1' '/IMG/MAP.png' 'La relación entre la seguridad y conveniencia muestra que entre más grande sea uno, más pequeño será el otro.' %}
 
-<!-- <label for="graph" class="margin-toggle">&#8853;</label><input type="checkbox" id="graph" class="margin-toggle"/><span class="marginnote"><img src="https://i.imgur.com/4utEacr.png" /> La relación entre la seguridad y conveniencia muestra que entre más grande sea uno, más pequeño será el otro.-->
 <h2 id="ejemplo">Ejemplo de modelo de amenaza</h2>
 Empecemos con un ejemplo sencillo y básico sobre como seguir el proceso OPSEC.
 	
