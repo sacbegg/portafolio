@@ -6,7 +6,6 @@ full_width: true
 weight: 3
 ---
 
-
 ## Creación de resúmenes a partir de un archivo PDF usando LangChain y GPT4ALL
 
 El proyecto es sobre cómo utilizar la librería LangChain de Python para crear resúmenes de archivos PDF utilizando el modelo de lenguaje GPT4ALL.
@@ -16,8 +15,6 @@ La librería LangChain es una herramienta de procesamiento de lenguaje natural q
 Para utilizar esta librería, deberás tener instalado Python y descargar las librerias necesarias de LangChain. Una vez que hayas hecho esto, podrás importar la librería en tu código y comenzar a generar resúmenes de tus archivos PDF.
 
 [_**Enlace a GitHub**_](https://github.com/sacbegg/SummaryLLM)
-
----
 
 <div align="center">
   <hr/>
