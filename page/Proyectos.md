@@ -14,6 +14,13 @@ La librería LangChain es una herramienta de procesamiento de lenguaje natural q
 
 Para utilizar esta librería, deberás tener instalado Python y descargar las librerias necesarias de LangChain. Una vez que hayas hecho esto, podrás importar la librería en tu código y comenzar a generar resúmenes de tus archivos PDF.
 
+<table>
+  <tr>
+    <td><img src="/IMG/LLM-GPT4ALL/1.jpeg" alt="Imagen 1" style="width: 85%; height: auto;" /></td>
+    <td><img src="/IMG/LLM-GPT4ALL/2.jpeg" alt="Imagen 2" style="width: 85%; height: auto;" /></td>
+  </tr>
+</table>
+<img src="/IMG/LLM-GPT4ALL/3.jpeg" alt="Imagen 3" style="width: 45%; height: auto;" />
 {% maincolumn '/IMG/LLM-GPT4ALL/1.jpeg' "" %}
 {% maincolumn '/IMG/LLM-GPT4ALL/2.jpeg' "" %}
 {% maincolumn '/IMG/LLM-GPT4ALL/3.jpeg' "" %}
