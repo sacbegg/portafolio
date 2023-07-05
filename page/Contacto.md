@@ -4,8 +4,8 @@ title: Contacto
 weight: 3
 ---
 
-LinkeIn
+[LinkedIn](https://www.linkedin.com/in/sacbeg/)
 
-GitHub
+[GitHub](https://github.com/sacbegg)
 
-Correo
+<a href=“mailto:sacbe.garcia@cimat.mx">Correo</a>
